@@ -13,9 +13,8 @@ Web developer
 
 I'm an engineering student and I'm a passionate software developer with a love for both frontend and backend technologies.
 
-* 🌍  I'm based in India
 * ✉️  You can contact me at [ayushikumari1024@gmail.com](mailto:ayushikumari1024@gmail.com)
-* 🧠  I'm learning Java Script
+* 🧠  I'm currently learning Java Script
 
 ### Skills
 
