@@ -19,7 +19,8 @@ I'm an engineering student and I'm a passionate software developer with a love f
 
 ### How to reach me: <strong>(Click the badge to view my profiles !)</strong>
 
-<img src="https://img.shields.io/badge/ayushikumari1024@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="ayushikumari1024@gmail.@gmail.com">   <a  href="https://www.instagram.com/ayushi_singh_07/"><img src="https://img.shields.io/badge/@ayushi_singh_07-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>   <a href="https://www.linkedin.com/in/ayushi07/10/"><img src="https://img.shields.io/badge/ayushi07/10-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  
+[![Gmail Badge](https://img.shields.io/badge/-ayushikumari1024@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ritikumariupadhyay24@gmail.com)](mailto:ayushikumari1024@gmail.com)
+   <a  href="https://www.instagram.com/ayushi_singh_07/"><img src="https://img.shields.io/badge/@ayushi_singh_07-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>   <a href="https://www.linkedin.com/in/ayushi07/10/"><img src="https://img.shields.io/badge/ayushi07/10-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  
 
 ### Here are some ideas to help you get started:
 
