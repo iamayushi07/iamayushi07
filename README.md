@@ -24,10 +24,10 @@ I'm an engineering student and I'm a passionate software developer with a love f
 
 ### Here are some ideas to help you get started:
 
-- 🔭 I’m currently working on <strong>Full-Stack Web Development</strong> and <strong>Open Source Contributions</strong>
-- 🌱 I’m currently learning <strong> Java Script </strong>
-- 🔍 I’m looking to collaborate on <strong>Front-End Web Dev Projects</strong>
-- 💬 Ask me about <strong>Data Structures in C++, JavaScript,Graphic Designing (Canva)</strong>
+-  I’m currently working on <strong>Full-Stack Web Development</strong> and <strong>Open Source Contributions</strong>
+-  I’m currently learning <strong> Java Script </strong>
+-  I’m looking to collaborate on <strong>Front-End Web Dev Projects</strong>
+-  Ask me about <strong>Data Structures in C++, JavaScript,Graphic Designing (Canva)</strong>
 
 ### Tools I work upon : 🛠
 
