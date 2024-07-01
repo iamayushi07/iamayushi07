@@ -3,7 +3,7 @@
 <p align="center">
  <img src="https://media.licdn.com/dms/image/D4D16AQEP4Pn1CN5u4Q/profile-displaybackgroundimage-shrink_350_1400/0/1716489620012?e=1721865600&v=beta&t=kIheDeWN21eeCF9cR9hbMzcXcrq-3O3IQ1u7ynE9_ak" alt="Cover Page"/>
 </p>
-<img src ="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif">
+
 ## ​🇦​​🇧​​🇴​​🇺​​🇹​ ​🇲​​🇪​: 
 Hi 👋 My name is AYUSHI
 =======================
@@ -13,7 +13,7 @@ Web developer
 
 I'm an engineering student and I'm a passionate software developer with a love for both frontend and backend technologies.
 
-<img src ="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
+<img src ="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gifhttps://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif">
 
 
 
