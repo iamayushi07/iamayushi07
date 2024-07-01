@@ -13,12 +13,10 @@ Web developer
 
 I'm an engineering student and I'm a passionate software developer with a love for both frontend and backend technologies.
 
-![Name](https://github.com/sharannyobasu/sharannyobasu/blob/master/Hello(1).gif)
-![Name](https://github.com/sharannyobasu/sharannyobasu/blob/master/Name.png)
+![Name](https://github.com/Ayushi/Ayushi/blob/master/Hello(1).gif)
+![Name](https://github.com/Ayushi/Ayushi/blob/master/Name.png)
 
 
- ### Profile Views :<br>
-  <img src="https://profile-counter.glitch.me/shrannyobasu/count.svg" />
 
 
 ### How to reach me: <strong>(Click the badge to view my profiles !)</strong>
