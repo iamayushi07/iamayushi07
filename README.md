@@ -13,9 +13,7 @@ Web developer
 
 I'm an engineering student and I'm a passionate software developer with a love for both frontend and backend technologies.
 
-![Name](https://github.com/Ayushi/Ayushi/blob/master/Hello(1).gif)
-![Name](https://github.com/Ayushi/Ayushi/blob/master/Name.png)
-
+<img src ="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
 
 
 
