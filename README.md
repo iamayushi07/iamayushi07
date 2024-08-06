@@ -8,7 +8,7 @@
 Hi 👋 My name is AYUSHI
 =======================
 
-Web developer
+Developer
 -------------
 
 I'm an engineering student and I'm a passionate software developer with a love for both frontend and backend technologies.
