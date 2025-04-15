@@ -12,9 +12,9 @@
       <th align="center" colspan="6">ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ ᴏɴ</th>
     </tr>
     <tr>
-    <td align="center"><b>React Native</b></td>
+    <td align="center"><b>Python</b></td>
       <td align="center" rowspan="3">
-        <a href="https://x.com/mainishanhoon" target="_blank">
+        <a href="https://x.com/iamayushi07" target="_blank">
           <img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Social%20Media/Twitter.png" width="60" height="60" alt="Twitter">
         </a>
       </td>
